@@ -1,0 +1,8 @@
+*.pkl
+ipl_json/
+t20_I_json/
+ipl_male_json/
+t20s_male_json*/
+*.zip
+*.csv.gz
+.ipynb_checkpoints/

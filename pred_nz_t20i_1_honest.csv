@@ -1,0 +1,10 @@
+pool,kind,f1,f2,players
+full,bowling_extreme,103.0533943494161,8.670403484503428,Abhishek Sharma; Ishan Kishan; S Dube; Kuldeep Yadav; AR Patel; Nithish Kumar Reddy; Arshdeep Singh; Prince Yadav; MP Yadav; B Kumar; CV Varun
+full,knee,175.60795594851174,6.231702204545339,SS Iyer; Abhishek Sharma; V Suryavanshi; Ishan Kishan; SV Samson; Kuldeep Yadav; AR Patel; Nithish Kumar Reddy; Prince Yadav; MP Yadav; B Kumar
+full,batting_extreme,211.98781898816426,4.130167682965597,SS Iyer; Abhishek Sharma; V Suryavanshi; Ishan Kishan; SV Samson; S Dube; Kuldeep Yadav; AR Patel; Nithish Kumar Reddy; Arshdeep Singh; Naman Dhir
+no_returning,bowling_extreme,128.05245243708293,6.845109047492345,Tilak Varma; Abhishek Sharma; Ishan Kishan; S Dube; Kuldeep Yadav; AR Patel; Arshdeep Singh; Prince Yadav; MP Yadav; Naman Dhir; CV Varun
+no_returning,knee,159.16831623713173,6.37234308719635,SS Iyer; Abhishek Sharma; V Suryavanshi; Ishan Kishan; SV Samson; Kuldeep Yadav; AR Patel; Arshdeep Singh; Prince Yadav; MP Yadav; CV Varun
+no_returning,batting_extreme,195.22666023572285,4.487984422842661,SS Iyer; Abhishek Sharma; V Suryavanshi; Ishan Kishan; SV Samson; S Dube; Kuldeep Yadav; AR Patel; Arshdeep Singh; Naman Dhir; CV Varun
+-,prev_match_xi,,,Arshdeep Singh; AR Patel; Ishan Kishan; SS Iyer; Kuldeep Yadav; SV Samson; S Dube; Tilak Varma; MP Yadav; Abhishek Sharma; Naman Dhir
+-,data_last_match,,,2026-10-06
+-,meta,,,POOL_MODE=squad; pool=16
